@@ -1,0 +1,23 @@
+# Binaries
+/server
+/server.exe
+/bin/
+*.exe
+*.dll
+*.so
+*.test
+
+# Local data
+*.db
+*.db-shm
+*.db-wal
+
+# Test artifacts
+coverage.out
+coverage.html
+
+# Editors / OS
+.idea/
+.vscode/
+.trae/
+.DS_Store
